@@ -31,6 +31,6 @@ python3 window.py
 ```
 ## Fuzzy Logic Plots
 
-![alt text](https://github.com/therrshan/Tipping-Problem/blob/master/assets/plot1.png "Input Membership Functions")
-![alt text](https://github.com/therrshan/Tipping-Problem/blob/master/assets/plot2.png "Output Membership Function")
-![alt text](https://github.com/therrshan/Tipping-Problem/blob/master/assets/plot3.png "Aggregated Membership(Result)")
+![alt text](https://github.com/therrshan/Tipping-Problem/blob/main/assets/plot1.png "Input Membership Functions")
+![alt text](https://github.com/therrshan/Tipping-Problem/blob/main/assets/plot2.png "Output Membership Function")
+![alt text](https://github.com/therrshan/Tipping-Problem/blob/main/assets/plot3.png "Aggregated Membership(Result)")
